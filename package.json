@@ -1,7 +1,7 @@
 {
   "name": "static-site",
   "version": "1.0.0",
-  "description": "",
+  "description": "Professional README generator",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +9,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.3.1"
-  }
+    "inquirer": "^8.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byxzESC/09-Node.js-PRG.git"
+  },
+  "bugs": {
+    "url": "https://github.com/byxzESC/09-Node.js-PRG/issues"
+  },
+  "homepage": "https://github.com/byxzESC/09-Node.js-PRG#readme"
 }
