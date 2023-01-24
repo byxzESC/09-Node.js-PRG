@@ -13,7 +13,7 @@ const licenseChoices = ['MIT', 'APACHE 2.0', 'GPL 3.0', 'BSD 3', 'none'];
 // Acceptances Criteria --- WHEN I am prompted for information about my application repository --- THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
 function writeToFile(fileName, data) {
     fs.appendFile(fileName, data, (err) => {
-        err ? console.log(err('hello')) : console.log(data);
+        err ? console.log(err) : console.log(data);
         console.log('generating a README...');
     });
 }

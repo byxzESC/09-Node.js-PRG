@@ -1,11 +1,11 @@
-# 09-Node.js-PRG
+# 09-Node.js-Professional README generator
 ![js badge](https://img.shields.io/badge/TECHOLOGY-JAVASCRIPT%20ES6-orange)
 ![node.js badge](https://img.shields.io/badge/TECHOLOGY-NODE.JS%20V16-success)
 ![js badge](https://img.shields.io/badge/NPM-INQUIRER.JS%20@8.2.4-RED)
 
 ## Description
 
-Professional README generator
+It is a simple readme markdown file generator using command prompt.
 
 ## Table of Contents (Optional)
 
